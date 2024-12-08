@@ -1,4 +1,4 @@
 # Demo
-This is my demo repositary
+This is my first demo repositary
 </br>
 Author - Kapil Kumar
