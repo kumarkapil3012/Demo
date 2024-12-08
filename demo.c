@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main() {
-    printf("Demo File\n");
+    printf("Demo File Features\n");
     return 0;
 }
